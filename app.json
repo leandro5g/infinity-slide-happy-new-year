@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "infinity-slide",
+    "slug": "infinity-slide",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
